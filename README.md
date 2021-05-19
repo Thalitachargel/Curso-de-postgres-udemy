@@ -1,5 +1,5 @@
 # Curso-de-postgres-udemy
-Curso de PostGres da Udemy
+https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/
 ------
 
 ## Index do Curso
@@ -56,7 +56,7 @@ Curso de PostGres da Udemy
       - [ ] Teste 3
  
   11.  Condicional
-    - [ ] Case When
+        - [ ] Case When
   13. Join
       - [ ] Introdução ao Join
       - [ ] Inner Join
@@ -69,8 +69,8 @@ Curso de PostGres da Udemy
       - [ ] Exercicio
       - [ ] teste 4
   15.  Subqueries
-     - [ ] Subqueries
-     - [ ] Exercicio
+        - [ ] Subqueries
+         - [ ] Exercicio
     
   17.   
   
